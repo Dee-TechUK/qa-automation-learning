@@ -28,3 +28,16 @@ I'm a manual QA professional transitioning to automation testing. This repo will
 - Write my first automated test
 
 Let's go! 🚀
+
+# Day 2 - My QA Automation 
+
+**Date:**April 2, 2026  
+**Goal:** Learn Typescript Basics
+
+## Today's Win
+- Variables (const / let)
+- Functions
+- Types (string, number, boolean)
+- async / await (key for Playwright)
+  
+
